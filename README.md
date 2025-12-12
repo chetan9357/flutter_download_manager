@@ -129,9 +129,10 @@ lib/
         android:resource="@xml/provider_paths" />
 </provider>
 ```
+
 ## 📄 License
 ### This project is licensed under the MIT License.
-``
+```
 Copyright (c) 2025 Excelsior Technologies
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  
