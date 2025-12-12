@@ -86,6 +86,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_download_manager_pkg:
+    dependency: "direct main"
+    description:
+      path: "D:/Flutter_Projects/Live Projects/flutter_download_manager/flutter_download_manager_pkg"
+      relative: false
+    source: path
+    version: "0.0.1"
   flutter_downloader:
     dependency: "direct main"
     description:
